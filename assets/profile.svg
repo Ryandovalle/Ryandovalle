@@ -1105,6 +1105,7 @@
 <rect x="768" y="680" width="11" height="11" rx="2" fill="#12122e"/>
 <rect x="768" y="694" width="11" height="11" rx="2" fill="#12122e"/>
 <rect x="768" y="708" width="11" height="11" rx="2" fill="#12122e"/>
+<rect x="768" y="722" width="11" height="11" rx="2" fill="#12122e"/>
 <style>@keyframes e0{0%,0.3%{opacity:1}0.45%,100%{opacity:0}}@keyframes e1{0%,12.5%{opacity:1}12.65%,100%{opacity:0}}@keyframes e2{0%,25.0%{opacity:1}25.15%,100%{opacity:0}}@keyframes e3{0%,37.5%{opacity:1}37.65%,100%{opacity:0}}@keyframes e4{0%,50.0%{opacity:1}50.15%,100%{opacity:0}}@keyframes e5{0%,62.5%{opacity:1}62.65%,100%{opacity:0}}@keyframes e6{0%,75.0%{opacity:1}75.15%,100%{opacity:0}}@keyframes e7{0%,87.5%{opacity:1}87.65%,100%{opacity:0}}@keyframes e8{0%,99.7%{opacity:1}99.85%,100%{opacity:0}}@keyframes snake{0.0%{transform:translate(648px,686px)}12.5%{transform:translate(676px,686px)}25.0%{transform:translate(662px,714px)}37.5%{transform:translate(648px,742px)}50.0%{transform:translate(662px,756px)}62.5%{transform:translate(760px,728px)}75.0%{transform:translate(760px,714px)}87.5%{transform:translate(774px,700px)}100.0%{transform:translate(774px,686px)}}</style>
 <rect x="642" y="680" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e0 50.0s linear infinite"/>
 <rect x="670" y="680" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e1 50.0s linear infinite"/>

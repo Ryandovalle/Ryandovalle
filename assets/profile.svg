@@ -1104,6 +1104,7 @@
 <rect x="768" y="666" width="11" height="11" rx="2" fill="#12122e"/>
 <rect x="768" y="680" width="11" height="11" rx="2" fill="#12122e"/>
 <rect x="768" y="694" width="11" height="11" rx="2" fill="#12122e"/>
+<rect x="768" y="708" width="11" height="11" rx="2" fill="#12122e"/>
 <style>@keyframes e0{0%,0.3%{opacity:1}0.45%,100%{opacity:0}}@keyframes e1{0%,11.111%{opacity:1}11.261%,100%{opacity:0}}@keyframes e2{0%,22.222%{opacity:1}22.372%,100%{opacity:0}}@keyframes e3{0%,33.333%{opacity:1}33.483%,100%{opacity:0}}@keyframes e4{0%,44.444%{opacity:1}44.594%,100%{opacity:0}}@keyframes e5{0%,55.556%{opacity:1}55.706%,100%{opacity:0}}@keyframes e6{0%,66.667%{opacity:1}66.817%,100%{opacity:0}}@keyframes e7{0%,77.778%{opacity:1}77.928%,100%{opacity:0}}@keyframes e8{0%,88.889%{opacity:1}89.039%,100%{opacity:0}}@keyframes e9{0%,99.7%{opacity:1}99.85%,100%{opacity:0}}@keyframes snake{0.0%{transform:translate(634px,686px)}11.111%{transform:translate(662px,686px)}22.222%{transform:translate(648px,714px)}33.333%{transform:translate(634px,742px)}44.444%{transform:translate(648px,756px)}55.556%{transform:translate(746px,728px)}66.667%{transform:translate(746px,714px)}77.778%{transform:translate(760px,700px)}88.889%{transform:translate(760px,686px)}100.0%{transform:translate(760px,728px)}}</style>
 <rect x="628" y="680" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e0 50.0s linear infinite"/>
 <rect x="656" y="680" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e1 50.0s linear infinite"/>

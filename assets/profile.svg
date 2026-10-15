@@ -726,10 +726,10 @@
 <text x="40" y="558" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700"><tspan fill="#ffd700">&gt; git</tspan><tspan fill="#00f0ff"> --stats</tspan></text>
 <line x1="160" y1="553" x2="780" y2="553" stroke="#ff007f" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="4 4"/>
 <rect x="40" y="574" width="173" height="72" rx="4" fill="#13042a" stroke="#00f0ff" stroke-opacity="0.3" stroke-width="1.5"/>
-<text x="126" y="612" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="800" fill="#ff007f">117</text>
+<text x="126" y="612" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="800" fill="#ff007f">120</text>
 <text x="126" y="632" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1" fill="#7a7aa0">CONTRIBUTIONS</text>
 <rect x="229.0" y="574" width="173" height="72" rx="4" fill="#13042a" stroke="#00f0ff" stroke-opacity="0.3" stroke-width="1.5"/>
-<text x="316" y="612" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="800" fill="#ff007f">2</text>
+<text x="316" y="612" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="800" fill="#ff007f">3</text>
 <text x="316" y="632" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1" fill="#7a7aa0">LONGEST STREAK</text>
 <rect x="418.0" y="574" width="173" height="72" rx="4" fill="#13042a" stroke="#00f0ff" stroke-opacity="0.3" stroke-width="1.5"/>
 <text x="504" y="612" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="800" fill="#00f0ff">2</text>
@@ -1106,7 +1106,7 @@
 <rect x="768" y="694" width="11" height="11" rx="2" fill="#12122e"/>
 <rect x="768" y="708" width="11" height="11" rx="2" fill="#12122e"/>
 <rect x="768" y="722" width="11" height="11" rx="2" fill="#12122e"/>
-<style>@keyframes e0{0%,0.3%{opacity:1}0.45%,100%{opacity:0}}@keyframes e1{0%,6.25%{opacity:1}6.4%,100%{opacity:0}}@keyframes e2{0%,12.5%{opacity:1}12.65%,100%{opacity:0}}@keyframes e3{0%,18.75%{opacity:1}18.9%,100%{opacity:0}}@keyframes e4{0%,25.0%{opacity:1}25.15%,100%{opacity:0}}@keyframes e5{0%,31.25%{opacity:1}31.4%,100%{opacity:0}}@keyframes e6{0%,37.5%{opacity:1}37.65%,100%{opacity:0}}@keyframes e7{0%,43.75%{opacity:1}43.9%,100%{opacity:0}}@keyframes e8{0%,50.0%{opacity:1}50.15%,100%{opacity:0}}@keyframes e9{0%,56.25%{opacity:1}56.4%,100%{opacity:0}}@keyframes e10{0%,62.5%{opacity:1}62.65%,100%{opacity:0}}@keyframes e11{0%,68.75%{opacity:1}68.9%,100%{opacity:0}}@keyframes e12{0%,75.0%{opacity:1}75.15%,100%{opacity:0}}@keyframes e13{0%,81.25%{opacity:1}81.4%,100%{opacity:0}}@keyframes e14{0%,87.5%{opacity:1}87.65%,100%{opacity:0}}@keyframes e15{0%,93.75%{opacity:1}93.9%,100%{opacity:0}}@keyframes e16{0%,99.7%{opacity:1}99.85%,100%{opacity:0}}@keyframes snake{0.0%{transform:translate(466px,686px)}6.25%{transform:translate(494px,686px)}12.5%{transform:translate(480px,714px)}18.75%{transform:translate(466px,742px)}25.0%{transform:translate(480px,756px)}31.25%{transform:translate(578px,728px)}37.5%{transform:translate(578px,714px)}43.75%{transform:translate(592px,700px)}50.0%{transform:translate(592px,686px)}56.25%{transform:translate(592px,728px)}62.5%{transform:translate(746px,742px)}68.75%{transform:translate(760px,742px)}75.0%{transform:translate(760px,756px)}81.25%{transform:translate(774px,714px)}87.5%{transform:translate(774px,700px)}93.75%{transform:translate(760px,700px)}100.0%{transform:translate(746px,686px)}}</style>
+<style>@keyframes e0{0%,0.3%{opacity:1}0.45%,100%{opacity:0}}@keyframes e1{0%,5.882%{opacity:1}6.032%,100%{opacity:0}}@keyframes e2{0%,11.765%{opacity:1}11.915%,100%{opacity:0}}@keyframes e3{0%,17.647%{opacity:1}17.797%,100%{opacity:0}}@keyframes e4{0%,23.529%{opacity:1}23.679%,100%{opacity:0}}@keyframes e5{0%,29.412%{opacity:1}29.562%,100%{opacity:0}}@keyframes e6{0%,35.294%{opacity:1}35.444%,100%{opacity:0}}@keyframes e7{0%,41.176%{opacity:1}41.326%,100%{opacity:0}}@keyframes e8{0%,47.059%{opacity:1}47.209%,100%{opacity:0}}@keyframes e9{0%,52.941%{opacity:1}53.091%,100%{opacity:0}}@keyframes e10{0%,58.824%{opacity:1}58.974%,100%{opacity:0}}@keyframes e11{0%,64.706%{opacity:1}64.856%,100%{opacity:0}}@keyframes e12{0%,70.588%{opacity:1}70.738%,100%{opacity:0}}@keyframes e13{0%,76.471%{opacity:1}76.621%,100%{opacity:0}}@keyframes e14{0%,82.353%{opacity:1}82.503%,100%{opacity:0}}@keyframes e15{0%,88.235%{opacity:1}88.385%,100%{opacity:0}}@keyframes e16{0%,94.118%{opacity:1}94.268%,100%{opacity:0}}@keyframes e17{0%,99.7%{opacity:1}99.85%,100%{opacity:0}}@keyframes snake{0.0%{transform:translate(466px,686px)}5.882%{transform:translate(494px,686px)}11.765%{transform:translate(480px,714px)}17.647%{transform:translate(466px,742px)}23.529%{transform:translate(480px,756px)}29.412%{transform:translate(578px,728px)}35.294%{transform:translate(578px,714px)}41.176%{transform:translate(592px,700px)}47.059%{transform:translate(592px,686px)}52.941%{transform:translate(592px,728px)}58.824%{transform:translate(746px,742px)}64.706%{transform:translate(760px,742px)}70.588%{transform:translate(760px,756px)}76.471%{transform:translate(774px,728px)}82.353%{transform:translate(774px,714px)}88.235%{transform:translate(774px,700px)}94.118%{transform:translate(760px,700px)}100.0%{transform:translate(746px,686px)}}</style>
 <rect x="460" y="680" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e0 50.0s linear infinite"/>
 <rect x="488" y="680" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e1 50.0s linear infinite"/>
 <rect x="474" y="708" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e2 50.0s linear infinite"/>
@@ -1120,16 +1120,17 @@
 <rect x="740" y="736" width="11" height="11" rx="2" fill="#cc3388" style="animation:e10 50.0s linear infinite"/>
 <rect x="754" y="736" width="11" height="11" rx="2" fill="#7a1a7a" style="animation:e11 50.0s linear infinite"/>
 <rect x="754" y="750" width="11" height="11" rx="2" fill="#7a1a7a" style="animation:e12 50.0s linear infinite"/>
-<rect x="768" y="708" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e13 50.0s linear infinite"/>
-<rect x="768" y="694" width="11" height="11" rx="2" fill="#ff007f" style="animation:e14 50.0s linear infinite"/>
-<rect x="754" y="694" width="11" height="11" rx="2" fill="#7a1a7a" style="animation:e15 50.0s linear infinite"/>
-<rect x="740" y="680" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e16 50.0s linear infinite"/>
+<rect x="768" y="722" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e13 50.0s linear infinite"/>
+<rect x="768" y="708" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e14 50.0s linear infinite"/>
+<rect x="768" y="694" width="11" height="11" rx="2" fill="#ff007f" style="animation:e15 50.0s linear infinite"/>
+<rect x="754" y="694" width="11" height="11" rx="2" fill="#7a1a7a" style="animation:e16 50.0s linear infinite"/>
+<rect x="740" y="680" width="11" height="11" rx="2" fill="#2d0b4e" style="animation:e17 50.0s linear infinite"/>
 <g style="animation:snake 50.0s linear infinite backwards;animation-delay:0.000s"><rect x="-8" y="-8" width="15" height="15" rx="4" fill="#00f0ff" opacity="0.35"/><rect x="-6" y="-6" width="11" height="11" rx="3" fill="#ffd700"/></g>
-<g style="animation:snake 50.0s linear infinite backwards;animation-delay:3.125s"><rect x="-6" y="-6" width="11" height="11" rx="3" fill="#ff007f" opacity="0.87"/></g>
-<g style="animation:snake 50.0s linear infinite backwards;animation-delay:6.250s"><rect x="-6" y="-6" width="11" height="11" rx="3" fill="#ff007f" opacity="0.74"/></g>
-<g style="animation:snake 50.0s linear infinite backwards;animation-delay:9.375s"><rect x="-6" y="-6" width="11" height="11" rx="3" fill="#ff007f" opacity="0.61"/></g>
-<g style="animation:snake 50.0s linear infinite backwards;animation-delay:12.500s"><rect x="-6" y="-6" width="11" height="11" rx="3" fill="#ff007f" opacity="0.48"/></g>
-<g style="animation:snake 50.0s linear infinite backwards;animation-delay:15.625s"><rect x="-6" y="-6" width="11" height="11" rx="3" fill="#ff007f" opacity="0.35"/></g>
+<g style="animation:snake 50.0s linear infinite backwards;animation-delay:2.941s"><rect x="-6" y="-6" width="11" height="11" rx="3" fill="#ff007f" opacity="0.87"/></g>
+<g style="animation:snake 50.0s linear infinite backwards;animation-delay:5.882s"><rect x="-6" y="-6" width="11" height="11" rx="3" fill="#ff007f" opacity="0.74"/></g>
+<g style="animation:snake 50.0s linear infinite backwards;animation-delay:8.824s"><rect x="-6" y="-6" width="11" height="11" rx="3" fill="#ff007f" opacity="0.61"/></g>
+<g style="animation:snake 50.0s linear infinite backwards;animation-delay:11.765s"><rect x="-6" y="-6" width="11" height="11" rx="3" fill="#ff007f" opacity="0.48"/></g>
+<g style="animation:snake 50.0s linear infinite backwards;animation-delay:14.706s"><rect x="-6" y="-6" width="11" height="11" rx="3" fill="#ff007f" opacity="0.35"/></g>
 <text x="40" y="834" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700"><tspan fill="#ffd700">&gt; whoami</tspan><tspan fill="#00f0ff"> --now</tspan></text>
 <line x1="169" y1="829" x2="780" y2="829" stroke="#ff007f" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="4 4"/>
 <text x="44" y="870" font-size="16">💻</text>
